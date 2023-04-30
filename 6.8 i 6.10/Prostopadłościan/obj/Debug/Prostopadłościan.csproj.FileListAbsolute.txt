@@ -1,0 +1,8 @@
+C:\Users\Zofia\Desktop\Prostopadłościan\bin\Debug\Prostopadłościan.exe.config
+C:\Users\Zofia\Desktop\Prostopadłościan\bin\Debug\Prostopadłościan.exe
+C:\Users\Zofia\Desktop\Prostopadłościan\bin\Debug\Prostopadłościan.pdb
+C:\Users\Zofia\Desktop\Prostopadłościan\obj\Debug\Prostopadłościan.csproj.AssemblyReference.cache
+C:\Users\Zofia\Desktop\Prostopadłościan\obj\Debug\Prostopadłościan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zofia\Desktop\Prostopadłościan\obj\Debug\Prostopadłościan.csproj.CoreCompileInputs.cache
+C:\Users\Zofia\Desktop\Prostopadłościan\obj\Debug\Prostopadłościan.exe
+C:\Users\Zofia\Desktop\Prostopadłościan\obj\Debug\Prostopadłościan.pdb
